@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there, I'm Lucas Scaramelo 👋
 
-<!--
-**lucasscaramelo/lucasscaramelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)](https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)
+[![Medium Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@lucas.scaramelo)](https://scaramelo.medium.com/)
+[![Dev.to Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lscaramelo)](https://dev.to/lscaramelo)
+ <p>
+    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-.Net-0000FF"/>
+</p>
 
-Here are some ideas to get you started:
+**Try once, twice, three times and if possible try the fourth, fifth and as many times as necessary. Just don't give up in the first attempts, persistence is a friend of conquest. If you want to get where the majority doesn't, do what the majority doesn't.**
+<br/>
+* 🤖  I’m a QA Engineer 
+* 🚀  I write some articles about Quality Engineering and Software Development
+* 🎮  I love games and develop them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LScaramelo&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=LScaramelo&show_icons=true&theme=dark" /></td>
+  </tr>  
+</table>
+</center>
+
+
+
