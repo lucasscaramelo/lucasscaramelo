@@ -18,7 +18,7 @@
 <table>
   <tr>
       <td>(https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscaramelo&hide=html&layout=compact&theme=dark)</td>
-      <td>("https://github-readme-stats.vercel.app/api?username=lucasscaramelo&show_icons=true&theme=dark")</td>
+      <td>(https://github-readme-stats.vercel.app/api?username=lucasscaramelo&show_icons=true&theme=dark)</td>
   </tr>  
 </table>
 </center>
