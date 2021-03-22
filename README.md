@@ -1,19 +1,34 @@
-## Hi there, I'm Lucas Scaramelo 👋
-
+## Hey, I'm Lucas Scaramelo
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)](https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)
 [![Medium Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@lucas.scaramelo)](https://scaramelo.medium.com/)
 [![Dev.to Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lscaramelo)](https://dev.to/lscaramelo)
- <p>
-    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
-    <img src="https://img.shields.io/badge/Back End-.Net-0000FF"/>
-</p>
 
-**Try once, twice, three times and if possible try the fourth, fifth and as many times as necessary. Just don't give up in the first attempts, persistence is a friend of conquest. If you want to get where the majority doesn't, do what the majority doesn't.**
-<br/>
-* 🤖  I’m a QA Engineer 
-* 🚀  I write some articles about Quality Engineering and Software Development
-* 🎮  I love games and develop them
+who am I
 
+I'm a Software Engineer with three years of experience in software development and quality engineering. I love playing video games and playing sports, I'm part of the quality engineering and testing community.
+
+
+*"If you want to get where the majority doesn't, do what the majority doesn't"*
+
+### Technology Stack 👾
+
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<br />
+<br />
+
+
+### Recent Acitivies ⚡
 <center>
 <table>
   <tr>
