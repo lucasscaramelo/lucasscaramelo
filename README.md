@@ -1,7 +1,7 @@
 ## Hey, I'm Lucas 😄
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)](https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)
-[![Medium Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@lucas.scaramelo)](https://scaramelo.medium.com/)
-[![Dev.to Badge](https://img.shields.io/badge/-Follow&nbsp;Me-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lscaramelo)](https://dev.to/lscaramelo)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)](https://www.linkedin.com/in/lucas-scaramelo-77b74116b/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@lucas.scaramelo)](https://scaramelo.medium.com/)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lscaramelo)](https://dev.to/lscaramelo)
 
 who am I
 
