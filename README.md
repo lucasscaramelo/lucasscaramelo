@@ -10,7 +10,7 @@ I'm a Software Engineer with three years of experience in software development a
 
 *"If you want to get where the majority doesn't, do what the majority doesn't"*
 
-### Technology Stack 👾
+### Stacks ⚡
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
@@ -28,7 +28,6 @@ I'm a Software Engineer with three years of experience in software development a
 <br />
 
 
-### Recent Acitivies ⚡
 <center>
 <table>
   <tr>
